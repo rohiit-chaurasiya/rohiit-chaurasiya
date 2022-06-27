@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohit Chaurasia</h1>
-- 🌱 I’m currently pursuing B.Tech
+- 👋 Hi, I'm **Rohit Chaurasia**
 
+- 🌱 I’m currently pursuing **B.Tech from KIET Group of Institutions, Ghaziabad**
 
+- 👨‍💻A passionate **Full Stack Developer**
 

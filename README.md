@@ -2,5 +2,5 @@
 
 - 🌱 I’m currently pursuing **B.Tech from KIET Group of Institutions, Ghaziabad**
 
-- 👨‍💻A passionate **Full Stack Developer**
+- 👨‍💻 I am interested in **Web development** and **Data Structures & Algo**
 

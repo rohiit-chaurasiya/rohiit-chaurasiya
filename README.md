@@ -16,7 +16,4 @@
 [![@rohitaayushmaan's Holopin board](https://holopin.me/rohitaayushmaan)](https://holopin.io/@rohitaayushmaan)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RohitAayushmaan&icon=1&color=12)](https://visitcount.itsvg.in)
-
-
 

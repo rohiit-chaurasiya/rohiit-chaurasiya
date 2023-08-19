@@ -1,5 +1,5 @@
 - 👋 Hi, I'm **Rohit Chaurasia** 
-- 🌱 Recently completed my **B.Tech from KIET Group of Institutions, Ghaziabad**
+- 🎓 Recently completed my **B.Tech from KIET Group of Institutions, Ghaziabad**
 - 👨‍💻 I am passionate about **Web Development** and exploring the realm of **Machine Learning**
 
 ## 💻 Tech Stack:

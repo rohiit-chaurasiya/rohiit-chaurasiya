@@ -1,10 +1,7 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<div size='20px'> Hi! My name is Rohit :)
-</div>
-  
-  - 🎓 Recently completed my **B.Tech from KIET Group of Institutions, Ghaziabad**
-- 👨‍💻 I am passionate about **Web Development** and exploring the realm of **Machine Learning**
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h3 align="center">My name is Rohit Chaurasia. I'm Full Stack Web Developer.</h3>
 
+  
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>

@@ -1,5 +1,8 @@
-- 👋 Hi, I'm **Rohit Chaurasia** 
-- 🎓 Recently completed my **B.Tech from KIET Group of Institutions, Ghaziabad**
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<div size='20px'> Hi! My name is Rohit :)
+</div>
+  
+  - 🎓 Recently completed my **B.Tech from KIET Group of Institutions, Ghaziabad**
 - 👨‍💻 I am passionate about **Web Development** and exploring the realm of **Machine Learning**
 
 ## 💻 Tech Stack:

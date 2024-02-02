@@ -39,26 +39,7 @@
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="vuejs" width="40" height="40" /></a>
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="60" height="60" /></a>
 
-
-
-
-
-
-
-
-
-
 </p> 
-
-
-
-
-# 📊 GitHub Stats:
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RohitAayushmaan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 
 [![An image of @rohitaayushmaan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitaayushmaan)](https://holopin.io/@rohitaayushmaan)
 

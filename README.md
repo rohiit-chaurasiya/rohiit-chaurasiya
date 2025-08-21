@@ -1,9 +1,16 @@
 <h1 align="center"> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align="center">
-  <samp>
-    My name is Rohit Chaurasia. I'm Full Stack Web Developer.
-  </samp>
+  <a href="https://github.com/rohiit-chaurasiya">
+    <img src="https://img.shields.io/github/followers/rohiit-chaurasiya?label=follow&style=social" alt="GitHub rohiit-chaurasiya" />
+  </a>
+  <a href="https://www.linkedin.com/in/rohiit-chaurasiya/">
+    <img src="https://img.shields.io/badge/-Rohit%20Chaurasia-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn: Rohit Chaurasia" />
+  </a>
+  <a href="https://x.com/RohiitChaurasia">
+    <img src="https://img.shields.io/twitter/follow/RohiitChaurasia?style=social" alt="Twitter: Rohit Chaurasia" />
+  </a>
 </p>
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rohitaayushmaan.github.io/)
